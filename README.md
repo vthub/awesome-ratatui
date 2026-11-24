@@ -410,6 +410,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 #### Communications and Social
 
+- [buzzr](https://github.com/buzzzr/buzzr) - A terminal client for Buzz, Nostr chat for humans and agents.
 - [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client.
 - [concord](https://github.com/chojs23/concord) - A TUI client for Discord.
 - [faro](https://github.com/harababurel/faro) - An unofficial Signal client for the terminal, built for tmux and SSH.
